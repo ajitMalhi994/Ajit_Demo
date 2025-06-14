@@ -1,0 +1,30 @@
+<resources>
+    <string name="dummy_ingredient_text">cheese</string>
+    <string name="number_of_ingredients">Number of Ingredients:</string>
+    <string name="top_three_findings">Top 3 Findings :</string>
+    <string name="generic_error_message">Something went wrong</string>
+    <string name="no_data_found">No data found</string>
+    <string name="bullet">"• "</string>
+    <string name="arrow">" -> "</string>
+    <string name="profile">Profile</string>
+    <string name="more">More</string>
+    <string name="profit_n_loss">"Profit &amp; Loss*"</string>
+    <string name="currentvalue">"Current value*"</string>
+    <string name="total_investment_tag">Total investment*</string>
+    <string name="search">Search</string>
+    <string name="toggle_sort">Toggle Sort</string>
+    <string name="holdings">Holdings</string>
+    <string name="net_qty">NET QTY: </string>
+    <string name="ltp_price">LTP: ₹ </string>
+    <string name="p_and_l">P&amp;L: </string>
+    <string name="holdings_L">HOLDINGS</string>
+    <string name="positions_L">POSITIONS</string>
+    <string name="total_pnl_display">₹ %1$s (%2$s%%)</string>
+    <string name="txt_rupee_value">₹ %1$s</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="today_pnl">Today\'s Profit &amp; Loss*</string>
+    <string name="watch_screen">Watchlist Screen</string>
+    <string name="fund_screen">Fund Screen</string>
+    <string name="order_screen">Order Screen</string>
+    <string name="invest_screen">Invest Screen</string>
+</resources>
